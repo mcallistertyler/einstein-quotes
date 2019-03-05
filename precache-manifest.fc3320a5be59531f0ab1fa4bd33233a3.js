@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b036e63c0225a0152e0c",
+    "revision": "69ee59625b1c6c644edc",
     "url": "/einstein-quotes/static/css/main.da2ca148.chunk.css"
   },
   {
-    "revision": "b036e63c0225a0152e0c",
-    "url": "/einstein-quotes/static/js/main.b036e63c.chunk.js"
+    "revision": "69ee59625b1c6c644edc",
+    "url": "/einstein-quotes/static/js/main.69ee5962.chunk.js"
   },
   {
     "revision": "c5d8aa49fe7e02a86e44",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/einstein-quotes/static/media/relativity-formulae.2384305a.svg"
   },
   {
-    "revision": "156053ba9cb0b45a228e8a86b6888e4e",
+    "revision": "554dac327f2d4ed1fc738fd16fc0beb7",
     "url": "/einstein-quotes/index.html"
   }
 ];
