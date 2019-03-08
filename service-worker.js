@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/einstein-quotes/precache-manifest.e25522fbc9171c766af2ee0cf02bad53.js"
+  "/einstein-quotes/precache-manifest.3ed1bb3766bf6162b75681a92e0c0e9d.js"
 );
 
 workbox.clientsClaim();
