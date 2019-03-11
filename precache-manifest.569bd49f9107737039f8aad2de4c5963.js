@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "a47d0474f5a4b518de64",
-    "url": "/einstein-quotes/static/css/main.70e4fd68.chunk.css"
+    "revision": "4a828157ff6d6ddefa65",
+    "url": "/einstein-quotes/static/css/main.a4794ba7.chunk.css"
   },
   {
-    "revision": "a47d0474f5a4b518de64",
-    "url": "/einstein-quotes/static/js/main.a47d0474.chunk.js"
+    "revision": "4a828157ff6d6ddefa65",
+    "url": "/einstein-quotes/static/js/main.4a828157.chunk.js"
   },
   {
     "revision": "c5d8aa49fe7e02a86e44",
     "url": "/einstein-quotes/static/js/runtime~main.c5d8aa49.js"
   },
   {
-    "revision": "8faf27f70ffd5e71dec3",
+    "revision": "301448ee423e80486aeb",
     "url": "/einstein-quotes/static/css/2.d2ca9746.chunk.css"
   },
   {
-    "revision": "8faf27f70ffd5e71dec3",
-    "url": "/einstein-quotes/static/js/2.8faf27f7.chunk.js"
+    "revision": "301448ee423e80486aeb",
+    "url": "/einstein-quotes/static/js/2.301448ee.chunk.js"
   },
   {
     "revision": "2384305ae7cdd4502cd39e3c3dc22e40",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/einstein-quotes/static/media/einstein-5.c0ea61ee.jpg"
   },
   {
-    "revision": "29371606c82e70994a7e972332c764f9",
+    "revision": "4d0f158f1142da1b1d56ee93637df6cd",
     "url": "/einstein-quotes/index.html"
   }
 ];
