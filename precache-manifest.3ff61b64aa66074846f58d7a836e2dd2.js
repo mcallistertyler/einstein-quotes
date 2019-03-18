@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "19125345f55070e01fbf",
+    "revision": "35c2d2d2a6c05c18b4a4",
     "url": "/einstein-quotes/static/css/main.a4794ba7.chunk.css"
   },
   {
-    "revision": "19125345f55070e01fbf",
-    "url": "/einstein-quotes/static/js/main.19125345.chunk.js"
+    "revision": "35c2d2d2a6c05c18b4a4",
+    "url": "/einstein-quotes/static/js/main.35c2d2d2.chunk.js"
   },
   {
     "revision": "c5d8aa49fe7e02a86e44",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/einstein-quotes/static/media/einstein-5.c0ea61ee.jpg"
   },
   {
-    "revision": "87d69a24071cc10f197f00d0f2c5043c",
+    "revision": "34ca52267d5fb1b72327e60dfffb20f1",
     "url": "/einstein-quotes/index.html"
   }
 ];
