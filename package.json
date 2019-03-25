@@ -1,0 +1,50 @@
+{
+  "name": "test-1",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://mcallistertyler95.github.io/einstein-quotes/",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.15",
+    "@fortawesome/free-regular-svg-icons": "^5.7.2",
+    "@fortawesome/free-solid-svg-icons": "^5.7.2",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "@uppy/core": "^0.30.1",
+    "@uppy/react": "^0.30.1",
+    "@uppy/robodog": "^0.30.1",
+    "@uppy/transloadit": "^0.30.2",
+    "@uppy/tus": "^0.30.1",
+    "bootstrap": "^4.3.1",
+    "dotenv": "^7.0.0",
+    "gh-pages": "^2.0.1",
+    "react": "^16.8.3",
+    "react-bootstrap": "^1.0.0-beta.5",
+    "react-dom": "^16.8.3",
+    "react-image-gallery": "^0.8.14",
+    "react-loader-spinner": "^2.3.0",
+    "react-loading-overlay": "^1.0.1",
+    "react-modal": "^3.8.1",
+    "react-scripts": "2.1.5",
+    "request": "^2.88.0",
+    "transloadit": "^2.0.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}

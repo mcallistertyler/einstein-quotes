@@ -1,0 +1,121 @@
+/* @font-face {
+  font-family: 'Dancing Script', cursive;
+  src: url('https://fonts.googleapis.com/css?family=Dancing+Script');
+} */
+
+/* @import url('https://fonts.googleapis.com/css?family=Dancing+Script'); */
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script');
+
+.App {
+  text-align: center;
+  color: #ffffff;
+  background-color: #282c34;
+}
+
+.App-logo {
+  height: 20vmin;
+}
+
+#canvas {
+  display: none;
+}
+
+.image-gallery-slide, ::after, ::before {
+  background-color: #282c34;
+}
+
+.image-gallery-slide img {
+  width: 600px;
+  height: 600px;
+}
+
+.App-page {
+  padding-bottom: 5%;
+}
+
+#modal-size {
+  max-width: 30%;
+  width:30%;
+}
+
+.header-title {
+  color:#ffffff;
+}
+
+.App-gallery {
+  background-color: #282c34;
+  padding-bottom: 5%;
+}
+
+.modal-content { 
+  background-color: transparent;
+  border: 0px;
+}
+
+.modal-body {
+  background-color :transparent;
+  border: 0px;
+}
+
+.modal-body img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.modal-body button {
+  float: right;
+}
+
+.form-control {
+  width: 15%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.App-form {
+  padding-bottom: 5%;
+}
+
+.mb-3 {
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 15px;
+}
+
+.divider {
+  width:20px;
+  height:auto;
+  display:inline-block;
+}
+
+.btn-outline-primary {
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
+.btn-outline-primary:hover {
+  color: #000000;
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+
+.App-header {
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  background-color: #282c34;
+}
+
+.image-gallery-slide, ::before {
+  background-color: transparent;
+}
+
+.App-link {
+  color: #61dafb;
+}
